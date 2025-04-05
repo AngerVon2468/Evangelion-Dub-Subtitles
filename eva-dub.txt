@@ -2,7 +2,7 @@
 
 CREDIT TO HSRM FOR PROVIDING THE PGS FILES FOR THE DAN KANEMITSU DUB SCRIPT.
 
-CREDIT TO MAVITY FOR CONVERTING EACH EPISODE FROM PGS TO DOCX.
+CREDIT TO MAVITY FOR CONVERTING EACH EPISODE FROM PGS TO DOCX AND FIXING CONVERSION ERRORS.
 
 CREDIT TO DEADLY FOR ORGANIZING THE SCRIPT ITSELF INTO A READABLE EXPERIENCE.
 
@@ -14720,168 +14720,180 @@ Dr. Akagi is reallysomething else.
 MISATO:Hacking the Magi can't betheir only plan.
 No, they're willingto play hardball if need be.
 You know this attackis only the beginning.
-Hacking the Magiis just the precursor.
+Hacking the Magi is just the precursor.
 They intend to infiltrate HQ
-and securethe two remaining Evas.
-GENDOH:I agree.
-After all, we haveboth Lilith and Adam.
-It's no wonder the old menhave become anxious.
+and secure the two remaining Evas.
+GENDOH: I agree.
+After all, we have both Lilith and Adam.
+It's no wonder the old men have become anxious.
 (rapid beeping)
 (whooshing)
-The hack on the Magijust completely stopped.
--Danang Type B Firewall erected.-AUTOMATED VOICE:Lockdown. Lockdown.
-MAYA:The lockdown should be goodfor 62 hours.
-AUTOMATED VOICE:Lockdown. Lockdown. Lockdown.
+The hack on the Magi just completely stopped.
+-Danang Type B Firewall erected.-
+AUTOMATED VOICE: Lockdown. Lockdown.
+MAYA: The lockdown should be good for 62 hours.
+AUTOMATED VOICE: Lockdown. Lockdown. Lockdown.
 Lockdown. Lockdown.
 Till next time, my dear mother.
-SEELE 06:Ikari has placed
-a Code 666 protectionon the Magi.
-Breaching it nowwill prove difficult.
-SEELE 07:We'll have to suspend effortsto commandeer the Magi.
-SEELE 01:We had meant this takeoverto be peaceful,
-but it seems we haveno other choice.
+SEELE 06: Ikari has placed
+a Code 666 protection on the Magi.
+Breaching it now will prove difficult.
+SEELE 07:We'll have to suspend efforts to commandeer the Magi.
+SEELE 01:We had meant this take over to be peaceful,
+but it seems we have no other choice.
 Breach and occupy HQ by force.
 (insects buzzing)
 (birds chirping)
 Let's get started.
 Proceed as planned.
 (aircraft whooshing overhead)
-MAYA:Radar sites numbers eightthrough 17 are off-line.
+MAYA:Radar sites numbers eight through 17 are off-line.
 SHIGERU:An artillery battalion
-has penetratedthe Gora defense line.
-MAKOTO:Two more battalions approaching
+has penetrated the Gora defense line.
+MAKOTO: Two more battalions approaching
 from the Gotenba area.
 After everything,it's just as I predicted.
-Our final enemy would beour fellow man.
-GENDOH:All personnel,battle stations condition one.
+Our final enemy would be our fellow man.
+GENDOH: All personnel,battle stations condition one.
 Battle stations, sir?
-I don't understand.They're not Angels.
+I don't understand. They're not Angels.
 They're human, just like us.
-The guys after usdon't see it that way.
+The guys after us don't see it that way.
 (rumbling)
--(knife thuds)-(muffled grunt)
+-(knife thuds)-
+(muffled grunt)
 (alarm blaring)
 Wait. What was that? Hey.
--What's going on?-I don't know.
+-What's going on?-
+I don't know.
 It's the south hub station.
 (alarm blaring)
-MAN:Daigatake tunnelhas been blocked!
-MAN 2:Fire in west number fivetransport corridor!
-MAN 3:The intruding forcehas infiltrated Level 1.
-The units in the west buildingare a diversion.
+MAN: Daigatake tunnel has been blocked!
+MAN 2:Fire in west number five transport corridor!
+MAN 3:The intruding force has infiltrated Level 1.
+The units in the west building are a diversion.
 If their objective is the Evas,
-then logicallythey'd go after the pilots.
-Have Shinji take refugein Unit 01 on the double.
--Yes, ma'am.-Where's Asuka?
+then logically they'd go after the pilots.
+Have Shinji take refuge in Unit 01 on the double.
+-Yes, ma'am.-
+Where's Asuka?
 Hospital room 303.
 A. LANGLEY SORYU
 MISATO:Have her board Unit 02.
-Asuka still can't synchronizewith an Eva.
-She won't be ableto do anything.
-She'll be neutralizedif she stays in that room.
-Our best option is to at leastput her inside an Eva.
-Understood.Discontinue medicating pilot.
+Asuka still can't synchronize with an Eva.
+She won't be able to do anything.
+She'll be neutralized if she stays in that room.
+Our best option is to at least put her inside an Eva.
+Understood. Discontinue medicating pilot.
 Once Asuka's inside Unit 02,
-hide it at the bottomof the subterranean lake.
+hide it at the bottom of the subterranean lake.
 They'll still find her soon,
-but it's betterthan being in the cage.
+but it's better than being in the cage.
 Where's Rei?
 Rei's location is unknown.
 We can't find her.
 She'll be killed out there.Find her quickly.
 (deep burbling)
-MAKOTO:Launching Unit 02, Route 8.
+MAKOTO: Launching Unit 02, Route 8.
 Placing her 70 below surface.
 Prepare to launch Unit 01 next.
-Position himwithin the Geo-Front.
+Position him within the Geo-Front.
 We can't yet.
--The pilot is hiding.-(gasps)
+-The pilot is hiding.-
+(gasps)
 What's he doing?
-WOMAN (over P.A.):Central Dogma, Level 2,
-adjacent blast doorsnow locked down.
-All noncombatants,evacuate through passageway 87.
-SHIGERU:Underground number threebarriers breached.
-The intrudershave entered Level 2.
-A division-sized SSDF forcemust have been deployed.
+WOMAN (over P.A.): Central Dogma, Level 2,
+adjacent blast doors now locked down.
+All noncombatants, evacuate through passageway 87.
+SHIGERU: Underground number three barriers breached.
+The intruders have entered Level 2.
+A division-sized SSDF force must have been deployed.
 We will be overrun eventually.
-Professor Fuyutsuki,would you look after things?
+Professor Fuyutsuki, would you look after things?
 I understand.
 Give my regards to Yui.
-MAN:Members of Group 2not responding.
-MAN 2:Mainframe room 77, contact lost.
-Maglev rail number 52has been demolished.
+MAN: Members of Group 2 not responding.
+MAN 2: Mainframe room 77, contact lost.
+Maglev rail number 52 has been demolished.
 Absolute scumbags.
 They make Angels look civilized.
-MISATO:Of course he'd feel that way.
-Our people aren'tused to killing others.
+MISATO: Of course he'd feel that way.
+Our people aren't used to killing others.
 (woman crying)
 Oh!
 Sever any red cables first.After that...
 (woman screaming)
-Confirmed-- intruders haveentered Level 3, Block B.
--We can't stop 'em!-SHIGERU: Block F, as well.
-The main bypass is being hitfrom two fronts.
-Abandon Level 3and everything above.
+Confirmed-- intruders have entered Level 3, Block B.
+-We can't stop 'em!-
+SHIGERU: Block F, as well.
+The main bypass is being hit from two fronts.
+Abandon Level 3 and everything above.
 Tell our forces to pull back.
-Inject Bakelite into allpassageways and exchange pipes
--up to Sector 803.-Roger.
-WOMAN (over P.A.):Injecting Bakelitefrom number 703.
+Inject Bakelite into all passageways and exchange pipes
+-up to Sector 803.-
+Roger.
+WOMAN (over P.A.): Injecting Bakelite from number 703.
 Flooding will complete in 30.
-Injecting Bakelitefrom number 7373.
-That should hold them backfor a while.
-MAKOTO: Major Katsuragi,Route 47 is cut off,
-so Group 3 isn't ableto advance.
+Injecting Bakelite from number 7373.
+That should hold them back for a while.
+MAKOTO: Major Katsuragi, Route 47 is cut off,
+so Group 3 isn't able to advance.
 They can't rescue Shinji!
-(gunfire, explosionsin distance)
-MISATO:Noncombatants should avoidclose-quarters combat.
+(gunfire, explosions in distance)
+MISATO: Noncombatants should avoid close-quarters combat.
 We're up against pros.
-Anyone who can't retreatinto the Dogma should surrender.
--Please take careof things for me.-Ma'am.
-SOLDIER:Forget Mount Futago.Seal off Nagao Touge.
-SOLDIER 2:This is a lot more troublethan we thought it'd be.
-This is bad.Headquarters isn't equipped
-with antipersonnel defenses,so there's not much
-we can do to stop them.We're screwed.
-Yeah, just someanti-terrorist stuff.
-If the SSDF reallyput their mind to it,
-this place and everyone in itwill be toast in no time.
-Now that you mention it,it was strange how
-our intruder prevention budgetwas slashed.
-Maybe it's 'cause they wereplanning for this raid.
+Anyone who can't retreat into the Dogma should surrender.
+-Please take care of things for me.-
+Ma'am.
+SOLDIER: Forget Mount Futago. Seal off Nagao Touge.
+SOLDIER 2: This is a lot more trouble than we thought it'd be.
+This is bad. Headquarters isn't equipped
+with antipersonnel defenses, so there's not much
+we can do to stop them. We're screwed.
+Yeah, just some anti-terrorist stuff.
+If the SSDF really put their mind to it,
+this place and everyone in it will be toast in no time.
+Now that you mention it, it was strange how
+our intruder prevention budget was slashed.
+Maybe it's 'cause they were planning for this raid.
 It's certainly possible.
-- (explosion)-(yells)
+-(explosion)-
+(yells)
 (grunts)
-WOMAN (over P.A.):Intruders have entered
-the Second Command Center,left wing...
+WOMAN (over P.A.): Intruders have entered
+the Second Command Center, left wing...
 Turn off the safety.
-I just... I don't think I havewhat it takes to use this thing.
-You've had loadsof practice time with a gun!
-That was different! I never hadto shoot at people back then!
--(gun fires, bullet ricochets)-(gasps)
-Get over it!You'll die if you don't!
+I just... I don't think I have what it takes to use this thing.
+You've had loads of practice time with a gun!
+That was different! I never had to shoot at people back then!
+-(gun fires, bullet ricochets)-
+(gasps)
+Get over it! You'll die if you don't!
 (deep burbling)
-GENDOH:Rei.
+GENDOH: Rei.
 I knew I'd find you here.
 (footsteps approaching)
-The promised time has come,so let's go.
+The promised time has come, so let's go.
 (distant gunfire, explosions)
-SOLDIER:We just finishedsecuring Level 2. Over.
-SOLDIER 2 (over radio):Secondary Command Center
-and the Magi originalhaven't been secured yet.
-Currently engaging targetfrom left wing, lower floor.
-SOLDIER 3 (over radio):Begin cooling cycle
+SOLDIER: We just finished securing Level 2. Over.
+SOLDIER 2 (over radio): Secondary Command Center
+and the Magi original haven't been secured yet.
+Currently engaging target from left wing, lower floor.
+SOLDIER 3 (over radio): Begin cooling cycle
 on 5th Bolgia immediately.
 (gunshot)
-OFFICER (over radio):Eva pilots must beterminated on sight.
-Fire at willat all noncombatants.
-OFFICER 2 (over radio):Yanagihara, Shinjyo Force,
+OFFICER (over radio): Eva pilots must be terminated on sight.
+Fire at will at all noncombatants.
+OFFICER 2 (over radio): Yanagihara, Shinjyo Force,
 breach the lower level now.
 (gun fires, bullet ricochets)
-- (footsteps rapidly approaching)-(guns clicking)
-Third found.Neutralizing target.
+-(footsteps rapidly approaching)-
+(guns clicking)
+Third found. Neutralizing target.
 (guns cocking)
 Sorry. Nothing personal, kid.
--(gunshot)-(yells)
+-(gunshot)-
+(yells)
 (soldiers grunting)
 (gun cocks)
 Sorry. It's nothing personal.
@@ -14889,99 +14901,97 @@ Sorry. It's nothing personal.
 All right. Come on.
 Let's get you to Unit 01.
 (radio warbling)
-(indistinct radio chatterthrough static)
-MISATO (sighs):Bastards.
+(indistinct radio chatter through static)
+MISATO (sighs): Bastards.
 They're gonna set up blockades
-to keep youfrom reaching Unit 01.
+to keep you from reaching Unit 01.
 We don't have much time.
 We need to hurry.
 Shinji.
 You have a decision to make.
-You can either run away,or you can get to Unit 01.
-You can't sit thereand do nothing.
+You can either run away, or you can get to Unit 01.
+You can't sit there and do nothing.
 You'll die, Shinji.
-SHINJI (whispering):Help me, Asuka.
+SHINJI (whispering): Help me, Asuka.
 Please help me.
 MISATO:Look at you-- escaping reality
-and asking some girlto solve your problems for you?
-You can't half-ass your waythrough this.
+and asking some girl to solve your problems for you?
+You can't half-ass your way through this.
 (footsteps approaching)
 Come on, damn it. Stand up!
 Stand up!
-SHINJI:No more. I want to die.
+SHINJI: No more. I want to die.
 I don't want to do anything.
-MISATO:This isn't the timeto throw a tantrum.
-Your life isn't over yet.Got that?
+MISATO: This isn't the time to throw a tantrum.
+Your life isn't over yet. Got that?
 Live your life standing up!
 Then you can die.
 (heavy gunfire)
-Forget us.Priority one is keeping them
-out of the Terminal Dogmaat all costs.
+Forget us. Priority one is keeping them
+out of the Terminal Dogma at all costs.
 (grunts) They've blown apart
-every other sectionof headquarters,
-but they seem to bemore careful here.
-I'm sure they'd likenothing more
+every other section of headquarters,
+but they seem to be more careful here.
+I'm sure they'd like nothing more
 than to go all out against us,
 but with the Magi original here,they can't.
 They must want to secure it
-with as little damageas possible.
-We've got very fewbiochemical countermeasures.
-We'd be screwedif they used any.
-MAKOTO:Don't forget N2 bombs.
+with as little damage as possible.
+We've got very few biochemical countermeasures.
+We'd be screwed if they used any.
+MAKOTO: Don't forget N2 bombs.
 (whooshing)
 (explosive whooshing)
 (electrical crackling)
 (rumbling)
 Speaking of bombs.
-Don't those pricks knowbigger doesn't mean better?
+Don't those pricks know bigger doesn't mean better?
 Huh. That was reckless.
 (bombs whistling)
-Why?! Why do they wantthe Evas so badly?!
-MISATO:They plan to startthe Third Impact
-using the Eva seriesinstead of an Angel.
-The Second Impact 15 years agowas set off by us, mankind.
-Humanity tried to revert Adamback to its egg state.
-They had to do it beforethe other Angels could awaken.
+Why?! Why do they want the Evas so badly?!
+MISATO: They plan to start the Third Impact
+using the Eva series instead of an Angel.
+The Second Impact 15 years ago was set off by us, mankind.
+Humanity tried to revert Adam back to its egg state.
+They had to do it before the other Angels could awaken.
 It was all they could do
-to keep the ensuing disasterto a minimum.
-Listen carefully to whatI'm about to say next, Shinji.
-We humans came froma source of life called Lilith,
+to keep the ensuing disaster to a minimum.
+Listen carefully to what I'm about to say next, Shinji.
+We humans came from a source of life called Lilith,
 which is also like Adam.
 That makes us the 18th Angel.
-The other Angels wereother possibilities,
+The other Angels were other possibilities,
 how humanity could have been,
-but sadly none of them, nor us,could coexist with one another.
-While we're all humans,only one of us could thrive.
-Shinji, I need you to eradicatethe Eva series.
+but sadly none of them, nor us, could coexist with one another.
+While we're all humans, only one of us could thrive.
+Shinji, I need you to eradicate the Eva series.
 It's the only way we'll survive.
 (prolonged beep)
-PRIME MINISTER:The phone's dead.
+PRIME MINISTER: The phone's dead.
 Is that everywhere?
 NAGANO PREFECTURE TOKYO-2
-NAGANO PREFECTURE TOKYO-2
-of a ballistic missilethree minutes ago.
+of a ballistic missile three minutes ago.
 THE PRIME MINISTER'S OFFICIAL RESIDENCE THIRD OFFICE
-THE PRIME MINISTER'S OFFICIAL RESIDENCE THIRD OFFICE
-and that HumanInstrumentality Project.
+and that Human Instrumentality Project.
 What were they thinking?
-Triggering the Third Impact,obliterating mankind?
+Triggering the Third Impact, obliterating mankind?
 It's outrageous.
-SECRETARY:Only man is capable of harboring
+SECRETARY: Only man is capable of harboring
 such contempt for itself.
-PRIME MINISTER:The question is:
-What do we dowith NERV HQ facilities?
+PRIME MINISTER: The question is:
+What do we do with NERV HQ facilities?
 SECRETARY:Are you planning to outsource
-its redevelopmentto the Germans or Chinese?
-PRIME MINISTER:They'll just rob us blind.
-No, I think it's betterto shut it down
-and let it rot for 20 years,same as Old Tokyo.
-SOLDIER (over radio):Surface heat has dissipated.
-High-pressure steam should notbe an issue anymore.
-SOLDIER 2:Initial deploymentof all units complete.
-We currently have Dogma Level 3and the purple one secured.
+its redevelopment to the Germans or Chinese?
+PRIME MINISTER: They'll just rob us blind.
+No, I think it's better to shut it down
+and let it rot for 20 years, same as Old Tokyo.
+SOLDIER (over radio): Surface heat has dissipated.
+High-pressure steam should not be an issue anymore.
+SOLDIER 2: Initial deployment of all units complete.
+We currently have Dogma Level 3 and the purple one secured.
 What about the red one?
-It's in the subterranean lakeat depth 70.
-However, we are still uncertainof the pilot's status.
+It's in the subterranean lake at depth 70.
+However, we are still uncertain of the pilot's status.
 (rumbling)
 (gasping softly)
 I'm alive.
@@ -14989,7 +14999,7 @@ I'm alive.
 (whimpering)
 (whimpering)
 (muffled explosions)
-(whispering):I don't want to die.
+(whispering): I don't want to die.
 I don't want to die.
 I don't want to die.
 I don't want to die.
@@ -15001,24 +15011,47 @@ I don't want to die.
 I don't want to die.
 I don't want to die.
 I don't want to die.
--I don't want to die.-WOMAN: You need to live more.
--Don't die.-I don't want to die.
--Live.-I don't want to die.
--I won't let you die.-I don't want to die.
--Don't die.-I don't want to die.
--lwon't...-You need to...-I don't want to die.
--You need to live more.-lwon't...
--I don't want to die.-I won't let you die.
--I don't want to die.-No.
--Now is not the time to die.-I don't want to die.
--Live more.-I don't want to die.-Die later.
--You have to live more.-I don't want to die.
--Now is not the time to die.-I don't want to die.
--Live.-I don't want to die.-I won't let you die.
--Die with me.-I don't want to die.
--I don't want to die.-Don't kill her.
--Live.-You need to live.-I don't want to die.
--Die with me.-I don't want to die.-Live more.
+-I don't want to die.-
+WOMAN: You need to live more.
+-Don't die.-
+I don't want to die.
+-Live.-
+I don't want to die.
+-I won't let you die.-
+I don't want to die.
+-Don't die.-
+I don't want to die.
+-I won't...-
+-You need to...-
+I don't want to die.
+-You need to live more.-
+I won't...
+-I don't want to die.-
+I won't let you die.
+-I don't want to die.-
+No.
+-Now is not the time to die.-
+I don't want to die.
+-Live more.-
+I don't want to die.
+-Die later.-
+-You have to live more.-
+I don't want to die.
+-Now is not the time to die.-
+I don't want to die.
+-Live.-
+I don't want to die.
+-I won't let you die.-
+-Die with me.-
+I don't want to die.
+I don't want to die.
+-Don't kill her.-
+-Live.-
+-You need to live.-
+I don't want to die.
+-Die with me.-
+I don't want to die.
+-Live more.-
 No! I don't want to die!
 Mommy, you were here.
 Mommy!
